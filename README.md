@@ -1,3 +1,3 @@
 1. The problems I chose were problems that we went over multiple times so I didn't have a real problem with any of them but when I looked at some of the other problems, I saw massive issues at first, like #19 which we went over in class which felt really confusing since we are used to 3k # of 1s usually when k >= 0 but in this case k has to be at least 1 so instead it had to go over 3 states first before heading it to 1. I found out that AI is not really helpful when it comes to designing DFAs or NFAs since the drawings they provide are harder to follow.
-2. 2. I didn't find any gold-str-ings in the NFA's that I chose, but there weren't any significant issues other than that since the machines were pretty straightfoward and I was able to comfortably tackle them.
-   3. 3. N/A
+2. I didn't find any gold-str-ings in the NFA's that I chose, but there weren't any significant issues other than that since the machines were pretty straightfoward and I was able to comfortably tackle them.
+3. N/A
